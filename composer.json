@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/PaysonCheckout2",
+    "name": "OpenMageModuleFostering\/PaysonCheckout2",
     "type": "magento-module",
     "license": "BCD-licence",
     "homepage": "",
     "description": "Official Payson module for Magento.",
     "authors": [
-    {
-        "name": "Oscar",
-        "email": "integration@payson.se"
-    }
-],
+        {
+            "name": "Oscar",
+            "email": "integration@payson.se"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
